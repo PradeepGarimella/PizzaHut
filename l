@@ -3,7 +3,6 @@ Seattle
 Sanfrancisco
 Portland
 Bellingham
-London
 Vizag
 Cleveland12
 Freak
