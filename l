@@ -1,8 +1,6 @@
 Bakron
 Seattle
-Sanfrancisco
 Portland
-Bellingham
 Vizag
 Cleveland12
 Freak
