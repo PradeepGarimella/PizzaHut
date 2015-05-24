@@ -1,6 +1,5 @@
 Bakron
 Seattle
-Sanfrancisco
 Portland
 Bellingham
 Vizag
