@@ -1,6 +1,7 @@
 akron
 Seattle
 Sanfrancisco
+Gajuwaka
 Portland
 Bellingham
 Paris
