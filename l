@@ -1,3 +1,4 @@
 Seattle
 Sanfrancisco
 Portland
+Bellingham
