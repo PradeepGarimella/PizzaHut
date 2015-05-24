@@ -1,3 +1,1 @@
-Seattle
-Sanfrancisco
-Portland
+akron
